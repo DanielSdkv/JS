@@ -131,4 +131,9 @@ let coursesAndDurationArray = [
     {title: 'FullStack', monthDuration: 7},
     {title: 'Frontend', monthDuration: 4}
 ];
-if (coursesAndDurationArray[0].monthDuration>5) {console.log('super')}
+if (coursesAndDurationArray[0].monthDuration > 5) {console.log('super')}
+if (coursesAndDurationArray[1].monthDuration > 5) {console.log('super')}
+if (coursesAndDurationArray[2].monthDuration > 5) {console.log('super')}
+if (coursesAndDurationArray[3].monthDuration > 5) {console.log('super')}
+if (coursesAndDurationArray[4].monthDuration > 5) {console.log('super')}
+if (coursesAndDurationArray[5].monthDuration > 5) {console.log('super')}
